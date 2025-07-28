@@ -48,7 +48,7 @@ An ML system that **predicts demand for public services** using:
 # Clone repo
 git clone https://github.com/Abena-3565/fayda-flow.git
 
-cd faydaflow
+cd fayda-flow
 
 # Install dependencies
 pip install -r requirements.txt
