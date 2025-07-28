@@ -58,3 +58,7 @@ python model/train.py
 
 # Launch dashboard
 streamlit run app.py
+
+
+## Contact:
+abenezeralz659gmail.com
