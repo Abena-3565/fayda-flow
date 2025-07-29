@@ -35,6 +35,19 @@ An ML system that **predicts demand for public services** using:
 - **Verification:** Integrate **VeriFayda OIDC** to demo secure access for government workers.
 - Helps filter duplicate/fake service requests
 
+## About the MVP 
+
+This MVP focuses on **agriculture-related public service prediction** using:
+- Simulated **Fayda-linked data** (FCN, age, gender, region, etc.)
+- **External agricultural indicators** like rainfall, crop prices, and drought risk
+
+## Dataset Overview 
+We simulate realistic Ethiopian citizens with attributes:
+- `fayda_id`, `gender`, `region`, `zone`, `woreda`
+- `occupation`, `week_of_year`
+- `soil_quality_score`, `rainfall_mm`, `crop_price_index`, `drought_risk_index`
+- Target: `service_demand`
+
 ## Tech Stack:
 - Python
 - Scikit-learn / XGBoost
