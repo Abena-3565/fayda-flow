@@ -38,8 +38,8 @@ An ML system that **predicts demand for public services** using:
 ## About the MVP 
 
 This MVP focuses on **agriculture-related public service prediction** using:
-- Simulated **Fayda-linked data** (FCN, age, gender, region, etc.)
-- **External agricultural indicators** like rainfall, crop prices, and drought risk
+- Simulated **Fayda-linked data** (FCN, age, gender, region, etc.).
+- **External agricultural indicators** like rainfall, crop prices, and drought risk.
 
 ## Dataset Overview 
 We simulate realistic Ethiopian citizens with attributes:
