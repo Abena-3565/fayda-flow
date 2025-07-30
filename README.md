@@ -88,6 +88,7 @@ python model/train.py
 # Launch dashboard
 streamlit run app.py
 
+![System Arictucture](assets/system_arc.png)
 
 ## Contact:
 abenezeralz659@gmail.com
