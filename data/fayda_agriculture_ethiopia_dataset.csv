@@ -1,0 +1,121 @@
+fayda_id,name,phone_number,date_of_birth,gender,nationality,region,zone,woreda,occupation,week_of_year,service_type,soil_quality_score,rainfall_mm,crop_price_index,drought_risk_index,service_demand
+6701-7230-8856,Kebede Tesfaye,0973003101,03/06/1973,Male,Ethiopian,Oromia,Zone 2,Woreda A,farmer,25,training,1,40,90,2,118
+1059-1390-2336,Mulugeta Haile,+251962944867,13/08/1974,Female,Ethiopian,Amhara,Zone 3,Woreda C,farmer,25,crop_protection,2,60,100,1,139
+1957-2574-9962,Haile Mulugeta,0964080958,23/06/1984,Female,Ethiopian,Oromia,Zone 2,Woreda C,farmer,25,training,1,100,120,2,118
+3731-8160-5506,Mulugeta Yohannes,0963773281,20/05/1989,Male,Ethiopian,Tigray,Zone 3,Woreda B,farmer,25,crop_protection,5,80,120,2,141
+4393-9949-9702,Selam Tesfaye,+251977319866,04/01/1985,Female,Ethiopian,Addis Ababa,Zone 3,Woreda D,trader,25,irrigation,5,40,100,3,117
+3046-6907-6048,Mekdes Kebede,0966199148,22/07/1999,Female,Ethiopian,Tigray,Zone 1,Woreda A,farmer,25,irrigation,1,60,120,4,123
+2345-9343-9393,Tesfaye Mulugeta,0989044176,18/09/1964,Female,Ethiopian,Tigray,Zone 4,Woreda B,farmer,25,training,3,40,90,2,140
+2983-9509-3315,Abebe Kebede,+251929525802,27/08/1982,Female,Ethiopian,Addis Ababa,Zone 1,Woreda D,trader,25,irrigation,4,20,100,3,121
+3295-6498-8625,Tigist Demeke,0958157258,30/07/1970,Male,Ethiopian,Tigray,Zone 3,Woreda C,farmer,25,irrigation,4,100,90,2,138
+4709-6193-4450,Demeke Mulugeta,0936363749,16/07/1993,Female,Ethiopian,Oromia,Zone 3,Woreda B,trader,25,fertilizer,5,40,100,4,120
+9312-4588-6086,Haile Abebe,+251988166067,21/01/1973,Male,Ethiopian,Amhara,Zone 2,Woreda B,teacher,25,crop_protection,4,40,100,1,142
+9533-7883-7676,Mekdes Abebe,0947237557,26/02/1983,Male,Ethiopian,Amhara,Zone 1,Woreda C,trader,25,irrigation,3,60,100,3,114
+5687-3610-4423,Yohannes Yohannes,+251943635480,14/08/2003,Male,Ethiopian,Oromia,Zone 4,Woreda A,trader,25,crop_protection,3,100,110,2,124
+5649-8869-8109,Mulugeta Tesfaye,+251938969342,01/06/1996,Male,Ethiopian,Addis Ababa,Zone 4,Woreda B,trader,25,irrigation,1,60,110,1,137
+5907-9819-4796,Mulugeta Kebede,0939495954,07/12/1980,Male,Ethiopian,Oromia,Zone 2,Woreda A,farmer,25,crop_protection,1,80,120,1,133
+7600-9966-3349,Lily Haile,0957336728,24/12/1968,Male,Ethiopian,Oromia,Zone 2,Woreda B,farmer,25,fertilizer,3,40,110,4,118
+8813-9897-2902,Yohannes Kebede,+251970842016,31/08/1968,Male,Ethiopian,Oromia,Zone 2,Woreda C,trader,25,fertilizer,5,100,90,1,136
+2351-7657-7615,Tigist Kebede,+251939295092,29/08/1967,Male,Ethiopian,Amhara,Zone 3,Woreda B,teacher,25,training,4,60,110,4,118
+1825-5842-4629,Aster Yohannes,+251931084240,18/06/1986,Female,Ethiopian,Tigray,Zone 4,Woreda A,teacher,25,crop_protection,2,80,110,4,132
+6283-6851-7669,Mekdes Yohannes,+251979622894,05/11/1967,Female,Ethiopian,Oromia,Zone 4,Woreda C,trader,25,fertilizer,4,60,120,3,134
+9191-3156-5319,Tigist Abebe,0995027697,20/02/1977,Female,Ethiopian,Oromia,Zone 2,Woreda A,trader,26,irrigation,3,40,120,3,124
+1108-3710-5454,Demeke Demeke,0942540638,27/08/1990,Female,Ethiopian,Tigray,Zone 4,Woreda C,trader,26,crop_protection,4,80,90,1,132
+3149-1138-7697,Aster Tesfaye,+251971592550,30/01/1974,Female,Ethiopian,Tigray,Zone 4,Woreda C,farmer,26,crop_protection,4,60,110,1,151
+1197-5583-5520,Mulugeta Demeke,+251930272189,19/02/1984,Male,Ethiopian,Amhara,Zone 3,Woreda D,farmer,26,fertilizer,1,60,100,3,115
+1047-9023-9848,Tesfaye Kebede,0931702425,03/10/1981,Female,Ethiopian,Amhara,Zone 4,Woreda A,trader,26,irrigation,1,20,90,3,111
+8712-3599-3645,Tigist Mulugeta,0929408629,20/08/2004,Female,Ethiopian,Tigray,Zone 2,Woreda B,farmer,26,fertilizer,1,40,120,4,116
+2469-7287-5799,Haile Kebede,+251979695348,06/04/1991,Female,Ethiopian,Amhara,Zone 2,Woreda C,farmer,26,fertilizer,2,20,120,2,135
+5243-2919-4374,Selam Yohannes,0945773039,02/03/1997,Male,Ethiopian,Oromia,Zone 4,Woreda D,trader,26,training,5,20,90,4,115
+8333-8411-3533,Lily Mulugeta,+251945138205,12/03/1983,Female,Ethiopian,Amhara,Zone 2,Woreda D,teacher,26,fertilizer,4,60,110,4,118
+4363-2098-5450,Tesfaye Haile,+251993141862,07/09/2000,Female,Ethiopian,Tigray,Zone 3,Woreda D,teacher,26,training,4,80,120,3,118
+4693-3459-5815,Kebede Tesfaye,+251950217563,30/07/1969,Female,Ethiopian,Addis Ababa,Zone 3,Woreda D,trader,26,training,4,100,120,2,138
+8894-6668-9775,Demeke Haile,0991778449,25/08/1964,Female,Ethiopian,Addis Ababa,Zone 4,Woreda C,teacher,26,training,1,40,90,2,111
+1244-4571-9872,Mekdes Haile,0980313481,03/07/1971,Male,Ethiopian,Oromia,Zone 2,Woreda C,trader,26,irrigation,2,80,110,2,130
+1337-3768-4822,Lily Kebede,+251916424948,03/01/1966,Female,Ethiopian,Amhara,Zone 4,Woreda C,farmer,26,training,3,20,110,4,109
+1599-6634-3296,Seble Mulugeta,+251942502622,06/03/1985,Female,Ethiopian,Amhara,Zone 1,Woreda C,teacher,26,training,1,80,90,1,123
+2299-3513-6764,Demeke Haile,0931851269,26/11/1994,Male,Ethiopian,Tigray,Zone 1,Woreda B,trader,26,crop_protection,5,20,110,4,109
+3887-4625-1818,Yohannes Tesfaye,0955885801,22/03/1966,Male,Ethiopian,Amhara,Zone 2,Woreda D,farmer,26,fertilizer,5,40,100,3,143
+4655-7448-5806,Selam Abebe,0911880612,12/04/1994,Male,Ethiopian,Oromia,Zone 1,Woreda C,teacher,26,crop_protection,2,80,110,2,133
+6657-2008-3247,Haile Tesfaye,+251924251399,23/04/1966,Female,Ethiopian,Tigray,Zone 1,Woreda B,farmer,26,fertilizer,2,40,100,1,116
+8182-6119-1207,Hanna Demeke,0932519470,07/08/1991,Female,Ethiopian,Addis Ababa,Zone 3,Woreda B,trader,26,irrigation,5,60,120,4,139
+6833-2384-8408,Abebe Tesfaye,+251961085336,15/11/1993,Female,Ethiopian,Amhara,Zone 1,Woreda C,farmer,27,fertilizer,3,100,110,2,143
+6046-2057-4884,Tigist Yohannes,0938513461,31/01/2003,Male,Ethiopian,Addis Ababa,Zone 3,Woreda A,trader,27,crop_protection,5,60,110,1,134
+7772-5591-1506,Selam Tesfaye,0998116607,12/09/1965,Male,Ethiopian,Amhara,Zone 3,Woreda D,farmer,27,fertilizer,3,100,120,4,109
+7747-7518-8396,Aster Tesfaye,0932566284,10/11/1967,Female,Ethiopian,Oromia,Zone 4,Woreda D,farmer,27,crop_protection,1,20,90,4,106
+8534-4227-6246,Yohannes Demeke,+251911595767,12/09/1979,Male,Ethiopian,Oromia,Zone 4,Woreda C,trader,27,fertilizer,2,40,90,1,137
+1312-1202-1090,Kebede Mulugeta,0977047304,27/02/1975,Female,Ethiopian,Amhara,Zone 1,Woreda B,teacher,27,training,5,40,90,3,124
+7023-6032-6010,Aster Demeke,+251985182727,12/06/1986,Female,Ethiopian,Tigray,Zone 1,Woreda A,teacher,27,fertilizer,5,100,100,4,139
+1517-1607-1370,Tigist Kebede,0930263749,01/01/1989,Female,Ethiopian,Tigray,Zone 2,Woreda C,trader,27,training,2,80,100,4,131
+3236-5420-1482,Hanna Demeke,+251998991033,05/02/1965,Male,Ethiopian,Amhara,Zone 4,Woreda B,trader,27,fertilizer,4,60,90,4,125
+9050-4915-1530,Tesfaye Haile,+251993953742,17/05/1974,Female,Ethiopian,Oromia,Zone 2,Woreda D,teacher,27,crop_protection,1,40,110,4,123
+5136-4227-3395,Kebede Yohannes,+251913603472,30/11/1987,Male,Ethiopian,Tigray,Zone 2,Woreda D,farmer,27,crop_protection,5,20,120,3,129
+3474-7144-8388,Demeke Haile,0973421543,17/07/1982,Female,Ethiopian,Tigray,Zone 1,Woreda B,teacher,27,training,5,40,110,2,144
+3473-9068-4647,Demeke Yohannes,+251989265320,16/12/1993,Male,Ethiopian,Oromia,Zone 1,Woreda B,teacher,27,crop_protection,3,20,90,2,129
+7891-8136-7466,Yohannes Mulugeta,0913286410,16/05/2003,Male,Ethiopian,Addis Ababa,Zone 1,Woreda D,trader,27,fertilizer,4,20,90,3,135
+3239-5843-7266,Hanna Yohannes,0955468134,19/06/1988,Female,Ethiopian,Amhara,Zone 2,Woreda B,farmer,27,training,2,20,90,1,123
+6160-9688-1437,Tigist Yohannes,+251931317458,04/12/1971,Female,Ethiopian,Tigray,Zone 2,Woreda B,trader,27,fertilizer,3,100,110,4,126
+4783-2589-1308,Abebe Tesfaye,+251969152170,11/06/2000,Male,Ethiopian,Tigray,Zone 4,Woreda B,teacher,27,crop_protection,5,40,90,3,140
+4551-9715-7376,Tesfaye Mulugeta,0910098812,14/04/1971,Male,Ethiopian,Amhara,Zone 3,Woreda B,trader,27,irrigation,5,40,120,1,153
+6485-6893-5787,Mulugeta Tesfaye,+251972593186,20/03/1988,Male,Ethiopian,Amhara,Zone 4,Woreda D,trader,27,crop_protection,4,100,90,2,140
+2311-9220-4233,Hanna Demeke,0934805860,16/05/1986,Female,Ethiopian,Amhara,Zone 4,Woreda B,teacher,27,crop_protection,3,80,110,3,137
+2584-1951-3987,Yohannes Yohannes,+251961019030,16/12/1966,Male,Ethiopian,Oromia,Zone 4,Woreda A,farmer,28,fertilizer,5,80,100,1,132
+5378-2650-1428,Hanna Abebe,0926898181,01/07/1979,Female,Ethiopian,Addis Ababa,Zone 4,Woreda C,trader,28,irrigation,2,20,120,2,114
+8401-8618-8266,Mekdes Abebe,0978384915,13/03/1990,Male,Ethiopian,Amhara,Zone 1,Woreda D,teacher,28,fertilizer,4,20,110,4,113
+9626-8919-6043,Abebe Yohannes,0945464072,24/01/1979,Female,Ethiopian,Oromia,Zone 4,Woreda C,teacher,28,irrigation,3,80,120,4,113
+6926-7993-5772,Demeke Yohannes,+251934211416,29/09/1976,Female,Ethiopian,Addis Ababa,Zone 1,Woreda C,teacher,28,fertilizer,1,20,110,1,124
+5670-1643-2702,Hanna Tesfaye,0938407527,06/02/1993,Male,Ethiopian,Addis Ababa,Zone 3,Woreda C,farmer,28,irrigation,4,80,90,4,136
+1445-6137-8292,Tesfaye Mulugeta,0994252893,30/05/1982,Male,Ethiopian,Addis Ababa,Zone 2,Woreda B,trader,28,irrigation,5,40,100,2,127
+5255-7828-1792,Hanna Abebe,0930310703,22/03/2005,Male,Ethiopian,Addis Ababa,Zone 2,Woreda A,trader,28,crop_protection,5,100,90,4,143
+9991-7046-2270,Tesfaye Kebede,0981793973,20/08/1986,Male,Ethiopian,Oromia,Zone 4,Woreda B,teacher,28,crop_protection,3,100,110,4,116
+1005-2671-2800,Demeke Kebede,0960143266,24/05/1985,Male,Ethiopian,Addis Ababa,Zone 3,Woreda C,teacher,28,crop_protection,1,80,120,2,117
+1867-5961-9493,Kebede Mulugeta,+251934022139,15/01/1965,Female,Ethiopian,Addis Ababa,Zone 3,Woreda C,farmer,28,training,5,80,120,2,148
+3601-9636-1656,Hanna Tesfaye,0969771632,05/12/1999,Female,Ethiopian,Addis Ababa,Zone 4,Woreda D,trader,28,fertilizer,1,20,110,2,121
+2414-7570-7298,Demeke Haile,0922956687,23/03/1967,Male,Ethiopian,Tigray,Zone 2,Woreda C,teacher,28,crop_protection,1,20,90,3,125
+5542-6600-6170,Tesfaye Haile,+251936106079,16/04/1976,Female,Ethiopian,Oromia,Zone 4,Woreda C,teacher,28,crop_protection,4,80,100,1,152
+4705-6819-2155,Hanna Tesfaye,0943098946,19/07/2001,Male,Ethiopian,Addis Ababa,Zone 2,Woreda B,trader,28,fertilizer,5,60,110,4,120
+9377-9718-8438,Yohannes Abebe,+251967711683,30/05/2004,Female,Ethiopian,Tigray,Zone 3,Woreda D,trader,28,fertilizer,1,40,110,1,117
+3944-3083-7079,Mekdes Yohannes,+251995237753,01/05/1973,Female,Ethiopian,Oromia,Zone 1,Woreda A,teacher,28,irrigation,1,40,110,1,130
+5496-4538-5447,Yohannes Abebe,+251953486363,24/03/1976,Female,Ethiopian,Oromia,Zone 3,Woreda A,farmer,28,training,5,20,120,3,134
+7729-9954-5209,Tigist Mulugeta,0991966175,11/11/1968,Female,Ethiopian,Amhara,Zone 2,Woreda D,trader,28,irrigation,2,60,110,1,120
+8557-2744-6932,Selam Mulugeta,+251992003850,01/09/1974,Male,Ethiopian,Addis Ababa,Zone 4,Woreda B,teacher,28,irrigation,4,100,120,2,122
+7621-6488-6746,Selam Yohannes,+251915598286,17/10/1987,Female,Ethiopian,Oromia,Zone 1,Woreda D,farmer,29,fertilizer,5,100,120,1,130
+5505-1709-1073,Mulugeta Yohannes,0996715064,01/11/1982,Female,Ethiopian,Tigray,Zone 1,Woreda D,trader,29,crop_protection,4,40,100,4,106
+9628-9414-3366,Tesfaye Yohannes,+251958414927,04/02/2000,Male,Ethiopian,Tigray,Zone 3,Woreda B,farmer,29,crop_protection,5,40,110,4,132
+7764-1218-5219,Tigist Abebe,0958944703,09/06/1997,Male,Ethiopian,Tigray,Zone 3,Woreda B,trader,29,irrigation,3,20,120,4,115
+5468-2891-9193,Hanna Abebe,+251939194488,08/08/1966,Male,Ethiopian,Oromia,Zone 3,Woreda D,farmer,29,crop_protection,3,100,120,1,137
+7787-8778-4937,Tigist Mulugeta,+251999869408,02/06/2002,Female,Ethiopian,Amhara,Zone 1,Woreda C,farmer,29,training,5,100,90,1,137
+4044-3437-2517,Kebede Yohannes,0979267032,03/03/2002,Female,Ethiopian,Tigray,Zone 2,Woreda C,farmer,29,crop_protection,5,60,120,4,116
+6162-7998-1150,Seble Kebede,+251973987281,22/03/1980,Female,Ethiopian,Oromia,Zone 1,Woreda B,teacher,29,training,3,100,90,4,133
+1126-8685-3466,Aster Kebede,+251997617745,15/02/1976,Female,Ethiopian,Addis Ababa,Zone 1,Woreda C,teacher,29,crop_protection,5,80,110,1,145
+6972-4389-9213,Aster Demeke,0965797986,01/12/1980,Female,Ethiopian,Addis Ababa,Zone 2,Woreda B,trader,29,fertilizer,1,20,100,1,133
+2952-2258-4100,Lily Mulugeta,0955861701,07/10/1977,Female,Ethiopian,Tigray,Zone 3,Woreda A,trader,29,fertilizer,2,60,120,4,116
+6442-9144-7997,Hanna Mulugeta,0973067898,30/04/1970,Male,Ethiopian,Oromia,Zone 4,Woreda A,teacher,29,training,5,20,100,4,137
+3702-5545-7459,Haile Haile,0917657628,10/06/1969,Male,Ethiopian,Amhara,Zone 4,Woreda B,teacher,29,training,3,100,120,4,124
+5300-5664-9936,Tigist Kebede,0941668360,23/07/1994,Female,Ethiopian,Oromia,Zone 4,Woreda A,teacher,29,fertilizer,5,40,100,2,138
+5442-9166-6118,Mulugeta Demeke,0911072087,22/01/2002,Female,Ethiopian,Tigray,Zone 1,Woreda B,teacher,29,irrigation,3,80,120,2,145
+5160-6352-8511,Lily Tesfaye,0936225644,09/01/1966,Male,Ethiopian,Addis Ababa,Zone 3,Woreda D,trader,29,fertilizer,1,60,100,4,109
+8180-1963-3050,Kebede Tesfaye,+251965789418,06/07/1997,Male,Ethiopian,Amhara,Zone 4,Woreda C,farmer,29,crop_protection,4,60,90,2,133
+2056-4019-7721,Yohannes Haile,0969101205,10/08/1993,Male,Ethiopian,Oromia,Zone 4,Woreda D,farmer,29,crop_protection,1,80,100,3,111
+2542-5027-9385,Demeke Abebe,0973075027,18/03/1967,Male,Ethiopian,Oromia,Zone 1,Woreda B,farmer,29,crop_protection,1,20,120,1,128
+3398-3902-4849,Seble Yohannes,0926665569,11/02/1982,Male,Ethiopian,Addis Ababa,Zone 1,Woreda C,teacher,29,crop_protection,3,40,100,3,123
+7356-5270-7757,Tesfaye Tesfaye,0955230119,21/12/1976,Male,Ethiopian,Oromia,Zone 2,Woreda B,farmer,30,fertilizer,1,40,120,1,135
+7077-7837-8771,Tesfaye Demeke,+251998353188,16/03/1968,Female,Ethiopian,Amhara,Zone 1,Woreda C,trader,30,crop_protection,1,60,110,3,116
+8553-7232-6156,Haile Kebede,0942537698,15/10/1996,Male,Ethiopian,Tigray,Zone 1,Woreda A,farmer,30,irrigation,1,80,120,4,127
+6787-3526-9070,Abebe Yohannes,0979532951,12/09/1991,Female,Ethiopian,Amhara,Zone 3,Woreda A,teacher,30,training,2,80,90,4,106
+3905-8601-8432,Kebede Kebede,+251916632105,02/03/1993,Male,Ethiopian,Oromia,Zone 2,Woreda A,teacher,30,crop_protection,2,20,120,3,124
+6064-6989-9504,Mulugeta Haile,0938190123,06/08/1981,Female,Ethiopian,Amhara,Zone 1,Woreda C,trader,30,crop_protection,5,100,110,4,118
+1587-7002-3991,Tesfaye Abebe,0926723370,07/05/1999,Female,Ethiopian,Addis Ababa,Zone 1,Woreda D,teacher,30,irrigation,2,80,110,4,116
+5048-6158-4890,Lily Haile,+251984184997,01/01/1975,Male,Ethiopian,Addis Ababa,Zone 3,Woreda C,teacher,30,fertilizer,4,20,120,3,138
+1981-3237-1336,Yohannes Yohannes,0950802596,22/01/1999,Female,Ethiopian,Oromia,Zone 1,Woreda C,teacher,30,fertilizer,4,80,120,3,128
+3051-8950-3186,Demeke Mulugeta,+251998997509,24/08/1985,Male,Ethiopian,Amhara,Zone 1,Woreda C,teacher,30,irrigation,2,20,100,4,113
+5235-7617-6634,Mekdes Yohannes,+251927262593,11/04/1966,Female,Ethiopian,Tigray,Zone 3,Woreda C,trader,30,crop_protection,2,60,100,3,117
+8404-4096-4624,Yohannes Tesfaye,0952568849,16/07/2004,Male,Ethiopian,Oromia,Zone 3,Woreda C,teacher,30,irrigation,4,40,100,4,108
+6686-5576-4367,Tesfaye Mulugeta,0917329641,29/03/1965,Male,Ethiopian,Addis Ababa,Zone 1,Woreda D,farmer,30,irrigation,1,60,100,3,124
+8245-2629-9181,Demeke Mulugeta,+251924850922,03/08/1971,Male,Ethiopian,Oromia,Zone 4,Woreda C,trader,30,crop_protection,1,100,120,1,148
+3194-8644-4572,Mulugeta Abebe,0941878336,02/05/1970,Female,Ethiopian,Oromia,Zone 3,Woreda C,teacher,30,crop_protection,5,40,120,2,127
+4384-2598-5587,Selam Kebede,0925430194,20/04/1986,Male,Ethiopian,Tigray,Zone 4,Woreda D,trader,30,crop_protection,2,40,90,3,129
+1548-7119-7217,Lily Yohannes,+251995768595,20/06/1998,Female,Ethiopian,Amhara,Zone 3,Woreda C,teacher,30,training,3,20,110,2,113
+2718-7545-6568,Hanna Kebede,0944148333,25/03/1966,Male,Ethiopian,Addis Ababa,Zone 3,Woreda C,farmer,30,irrigation,5,80,120,4,118
+6296-2510-5240,Tigist Abebe,0947591392,30/03/1969,Female,Ethiopian,Oromia,Zone 3,Woreda B,teacher,30,fertilizer,3,80,110,4,114
+6482-2924-7197,Demeke Haile,+251993098100,21/07/1990,Male,Ethiopian,Amhara,Zone 4,Woreda A,farmer,30,fertilizer,3,40,110,1,126
