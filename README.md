@@ -41,6 +41,14 @@ This MVP focuses on **agriculture-related public service prediction** using:
 - Simulated **Fayda-linked data** (FCN, age, gender, region, etc.).
 - **External agricultural indicators** like rainfall, crop prices, and drought risk.
 
+## 🔐 VeriFayda Authentication (Simulated)
+
+While this MVP does not fully implement the VeriFayda OIDC authentication API due to time and hardware constraints, we simulate the login experience through a Fayda ID input and secure access simulation.
+
+- Fayda ID format: `xxxx-xxxx-xxxx`
+- VeriFayda authentication is shown in the sidebar
+- This architecture is designed to plug into VeriFayda’s OIDC endpoint easily
+
 ## Dataset Overview 
 I simulate realistic Ethiopian citizens with attributes:
 - `fayda_id`, `gender`, `region`, `zone`, `woreda`
@@ -48,7 +56,15 @@ I simulate realistic Ethiopian citizens with attributes:
 - `soil_quality_score`, `rainfall_mm`, `crop_price_index`, `drought_risk_index`
 - Target: `service_demand`
 
-## Tech Stack:
+
+## 🧩 Key Features
+- 🔐 Fayda ID login simulation
+- 📈 Predict demand for agricultural services based on rainfall, drought risk, soil
+- 📊 Visualize historical seasonal trends
+- 🧠 AI-generated action recommendations (e.g. fertilizer, irrigation)
+- 🎨 Clean, professional dashboard with responsive layout
+
+  ## Tech Stack:
 - Python
 - Scikit-learn / XGBoost
 - Pandas / NumPy
@@ -72,12 +88,6 @@ python model/train.py
 # Launch dashboard
 streamlit run app.py
 
-## 🧩 Key Features
-- 🔐 Fayda ID login simulation
-- 📈 Predict demand for agricultural services based on rainfall, drought risk, soil
-- 📊 Visualize historical seasonal trends
-- 🧠 AI-generated action recommendations (e.g. fertilizer, irrigation)
-- 🎨 Clean, professional dashboard with responsive layout
 
 ## Contact:
 abenezeralz659@gmail.com
