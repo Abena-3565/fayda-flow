@@ -79,5 +79,7 @@ streamlit run app.py
 - 🧠 AI-generated action recommendations (e.g. fertilizer, irrigation)
 - 🎨 Clean, professional dashboard with responsive layout
 
+![Dashboard Preview](https://via.placeholder.com/800x400?text=FaydaFlow+Dashboard+Preview)
+
 ## Contact:
 abenezeralz659@gmail.com
