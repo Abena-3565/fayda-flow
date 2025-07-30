@@ -74,4 +74,4 @@ streamlit run app.py
 
 
 ## Contact:
-abenezeralz659gmail.com
+abenezeralz659@gmail.com
