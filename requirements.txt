@@ -1,6 +1,11 @@
+# Core Data Science
 pandas==2.2.3
 numpy==1.26.4
 scikit-learn==1.6.1
+
+# Dashboard
 streamlit==1.47.1
+
+# Utilities
 joblib==1.4.2
 faker==25.2.0
