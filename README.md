@@ -79,7 +79,5 @@ streamlit run app.py
 - 🧠 AI-generated action recommendations (e.g. fertilizer, irrigation)
 - 🎨 Clean, professional dashboard with responsive layout
 
-![Dashboard Preview](assets/system-arc.png)
-
 ## Contact:
 abenezeralz659@gmail.com
