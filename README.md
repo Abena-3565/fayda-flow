@@ -42,7 +42,7 @@ This MVP focuses on **agriculture-related public service prediction** using:
 - **External agricultural indicators** like rainfall, crop prices, and drought risk.
 
 ## Dataset Overview 
-We simulate realistic Ethiopian citizens with attributes:
+I simulate realistic Ethiopian citizens with attributes:
 - `fayda_id`, `gender`, `region`, `zone`, `woreda`
 - `occupation`, `week_of_year`
 - `soil_quality_score`, `rainfall_mm`, `crop_price_index`, `drought_risk_index`
