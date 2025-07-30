@@ -72,6 +72,12 @@ python model/train.py
 # Launch dashboard
 streamlit run app.py
 
+## 🧩 Key Features
+- 🔐 Fayda ID login simulation
+- 📈 Predict demand for agricultural services based on rainfall, drought risk, soil
+- 📊 Visualize historical seasonal trends
+- 🧠 AI-generated action recommendations (e.g. fertilizer, irrigation)
+- 🎨 Clean, professional dashboard with responsive layout
 
 ## Contact:
 abenezeralz659@gmail.com
