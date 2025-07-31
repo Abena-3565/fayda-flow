@@ -6,6 +6,7 @@ A machine learning platform designed to support smarter, more equitable public s
 
 ## Contributor:
 - Abenezer Alemayeh
+- abenezeralz659@gmail.com
 
 ### **Project Synopsis**  
 
